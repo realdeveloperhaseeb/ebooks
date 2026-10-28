@@ -1,0 +1,293 @@
+PYTHON EBOOK LANDING PAGE COPY (Pakistani audience)
+Matches the 8-block wireframe, top to bottom.
+Anything in [ square brackets ] is a placeholder you must fill in before publishing.
+
+=====================================================
+SEO / PAGE META
+=====================================================
+
+Page title (under 60 chars):
+Python Seekhein: Step-by-Step Python Ebook in PDF | Rs. 29,000
+
+Meta description (under 160 chars):
+Seekhein Python zero se, simple English mein. Real projects, freelancing roadmap aur instant PDF download. Easypaisa, JazzCash aur bank transfer accept hain.
+
+H1 (use once, in the hero):
+Learn Python from Zero and Build Real Projects, Step by Step
+
+Quick summary block (put near the top of the page, in plain text, for Google AI Overviews and LLMs):
+[Ebook Title] is a Python programming ebook in PDF format, written for Pakistani beginners. It teaches Python from the basics to real projects in simple English, and includes a freelancing roadmap. The regular price is Rs. 49,000 and the current discounted price is Rs. 29,000. Payment is accepted via Easypaisa, JazzCash and bank transfer, and the PDF is delivered by link after payment.
+
+
+=====================================================
+SECTION 1: HERO
+=====================================================
+
+Small label above headline:
+Python Ebook for Pakistani Students and Beginners
+
+Headline:
+Learn Python from Zero and Build Real Projects, Step by Step
+
+Subheadline:
+Videos dekh dekh ke confusion ho rahi hai? Yeh ebook aapko ek clear path deti hai: basics se le kar real projects tak, simple English mein, bina kisi ulajhan ke.
+
+Price line:
+Regular price: Rs. 49,000
+Today: Rs. 29,000 (save Rs. 20,000)
+
+Primary button:
+Get the Ebook Now
+
+Small line under button:
+Pay via Easypaisa, JazzCash or Bank Transfer. PDF link delivered after payment confirmation.
+
+Trust pills (3):
+- Instant PDF access
+- Easypaisa / JazzCash / Bank Transfer
+- [Refund or guarantee line: confirm your policy first]
+
+Book cover alt text:
+Cover of [Ebook Title], a Python programming ebook in PDF format
+
+
+=====================================================
+SECTION 2: PAIN POINTS
+=====================================================
+
+Heading:
+Python seekhna mushkil nahi hai. Galat tareeqa mushkil hai.
+
+Subheading:
+Agar aap in mein se kisi ek se guzar rahe hain, to yeh ebook aapke liye hai.
+
+Card 1:
+Title: Scattered tutorials
+Text: YouTube pe har video alag jagah se start hoti hai. Aap ko pata hi nahi chalta ke next kya seekhna hai.
+
+Card 2:
+Title: Starting point ka pata nahi
+Text: Itne courses aur roadmaps hain ke shuru karna hi mushkil lagta hai. Aap bas saving karte rehte hain, seekhte nahi.
+
+Card 3:
+Title: Padh liya, par bana kuch nahi
+Text: Syntax yaad hai, lekin jab khud se project banana ho to dimagh blank ho jata hai.
+
+Bridge line (centered):
+Yeh ebook in teeno problems ko ek step-by-step path se solve karti hai.
+
+
+=====================================================
+SECTION 3: WHAT'S INSIDE
+=====================================================
+
+Heading:
+Is ebook se aap kya kar paenge
+
+Subheading:
+Sirf theory nahi. Har chapter ka ek clear result hai.
+
+Benefit cards (6):
+
+1. Write your first program on Day 1
+   Python install karna se le kar pehla working program likhne tak, pehle din hi.
+
+2. Understand the basics properly
+   Variables, loops, functions aur data types, aasan examples ke saath.
+
+3. Build [5] real projects
+   Practice ke liye projects, taake aap sirf padhein nahi, banayein bhi. [Update the number to match your ebook]
+
+4. Learn to fix your own errors
+   Errors se ghabrana nahi. Aap seekhenge ke debugging kaise karte hain.
+
+5. Get freelancing-ready
+   Fiverr aur Upwork pe Python se kaam shuru karne ka practical roadmap.
+
+6. Keep your code and cheat sheet
+   Project source code aur ek quick-reference cheat sheet, bonus mein.
+
+Page preview row heading:
+Andar se dekhein
+
+Page preview captions (3 images, add alt text):
+- Sample page: [Chapter name]
+- Sample page: [Chapter name]
+- Sample page: [Chapter name]
+
+Lead capture box (4th block in that row):
+Heading: Pehle free sample chapter parh lein
+Text: Apna email ya WhatsApp number dein aur sample chapter turant bhej diya jayega.
+Input placeholder: Email ya WhatsApp number
+Button: Send Me the Free Sample
+
+
+=====================================================
+SECTION 4: WHO IT'S FOR + ROADMAP
+=====================================================
+
+LEFT CARD
+Heading: Yeh ebook kis ke liye hai
+
+Checklist (4):
+- Students jo programming mein pehla qadam rakhna chahte hain
+- Fresh graduates jo job ke liye skills barhana chahte hain
+- Career switchers jo IT mein aana chahte hain
+- Freelancers jo Python se kaam aur income shuru karna chahte hain
+
+Small note under list:
+Pehle se programming aani zaroori nahi. Agar aap computer chala lete hain, to aap shuru kar sakte hain.
+
+RIGHT CARD
+Heading: 4 hafton ka seedha raasta
+
+Timeline (4):
+- Week 1: Python basics aur pehla program
+- Week 2: Loops, functions aur data handling
+- Week 3: Real projects banana
+- Week 4: Portfolio aur freelancing ki tayyari
+
+Small note under timeline:
+Yeh ek suggested pace hai. Aap apni raftaar se chal sakte hain.
+
+
+=====================================================
+SECTION 5: SOCIAL PROOF
+=====================================================
+
+Heading:
+Parhne walon ka kehna hai
+
+IMPORTANT: Only use real feedback from real readers. If you have no reviews yet, replace this block with beta-reader feedback and label it honestly (for example: "From our early readers"). Do not invent names or numbers.
+
+Testimonial 1:
+Stars: [5 stars]
+Quote: [Real review text goes here]
+Name: [Name]
+City: [Lahore / Karachi / Islamabad]
+
+Testimonial 2:
+Stars: [5 stars]
+Quote: [Real review text goes here]
+Name: [Name]
+City: [City]
+
+Testimonial 3:
+Stars: [5 stars]
+Quote: [Real review text goes here]
+Name: [Name]
+City: [City]
+
+Author bio card:
+Heading: Aap ka author
+Text: Main [Your Name] hoon. Main [X] saal se Python aur web development par kaam kar raha hoon, aur maine yeh ebook is liye likhi ke beginners ko woh seedha raasta mile jo mujhe shuru mein nahi mila tha. [Add your real experience, projects or results here]
+
+
+=====================================================
+SECTION 6: PRICING / OFFER
+=====================================================
+
+Heading:
+Ek ebook. Ek clear price.
+
+Offer label:
+Limited-time launch discount [Add a real end date, e.g. "ends 15 November". Remove if it is not true.]
+
+Price:
+Regular price: Rs. 49,000
+Aaj ki qeemat: Rs. 29,000
+You save: Rs. 20,000
+
+What you get (4 lines):
+- [Ebook Title] in PDF format
+- Source code for all projects
+- Bonus Python cheat sheet
+- [Free updates: confirm before listing]
+
+Payment methods row (4 icons):
+Easypaisa | JazzCash | Bank Transfer | [Card, if available]
+
+How to pay (short, 3 steps):
+1. Payment bhej dein Easypaisa, JazzCash ya bank transfer se.
+2. Receipt ka screenshot WhatsApp par bhej dein: [WhatsApp number].
+3. PDF ka download link aap ko foran bhej diya jayega.
+
+Main button:
+Get the Ebook for Rs. 29,000
+
+Delivery link note (internal, for your setup):
+Ebook download link: [ url ]
+
+Guarantee badge text:
+[Your guarantee, e.g. "7-Day Money-Back Guarantee". Only add this if you will honor it.]
+
+
+=====================================================
+SECTION 7: FAQ + FINAL CTA
+=====================================================
+
+Heading:
+Aksar poochay jane wale sawal
+
+(Each answer starts with a direct answer. This helps Google AI Overviews and LLMs quote it.)
+
+Q1: Is this Python ebook suitable for complete beginners?
+A: Yes. The ebook starts from zero and assumes no programming background. Every concept is explained in simple English with small examples, so you can follow along even if this is your first time coding.
+
+Q2: Do I need a laptop to use this ebook?
+A: Yes, a laptop or desktop is recommended because you will write and run Python code while learning. The ebook shows you how to set up Python for free, and a basic computer is enough.
+
+Q3: How will I get the ebook after paying?
+A: You will receive a PDF download link right after your payment is confirmed. Pay through Easypaisa, JazzCash or bank transfer, send the receipt screenshot on WhatsApp, and the link is shared with you.
+
+Q4: What is the price and is there a refund?
+A: The ebook costs Rs. 29,000 today, down from the regular price of Rs. 49,000. [Refund line: for example, "If it does not work for you, contact us within 7 days for a refund." Only write this if it is your real policy.]
+
+Final CTA band:
+Heading: Aaj hi Python seekhna shuru karein
+Subtext: Rs. 49,000 ki jagah sirf Rs. 29,000. Instant PDF access.
+Button: Get the Ebook Now
+
+
+=====================================================
+SECTION 8: FOOTER (4 columns)
+=====================================================
+
+Column 1 (brand):
+[Brand Name]
+Python seekhein, simple tareeqe se.
+
+Column 2 (links):
+Home | What's Inside | Pricing | FAQ
+
+Column 3 (support and policies):
+Contact Us | Refund Policy | Privacy Policy | Terms of Use
+WhatsApp: [number]
+Email: [email]
+
+Column 4 (social icons):
+[Instagram] [YouTube] [Facebook]
+
+Copyright line:
+(c) 2026 [Brand Name]. All rights reserved.
+
+
+=====================================================
+FLOATING WHATSAPP BUTTON
+=====================================================
+
+Button label (tooltip):
+Chat with us on WhatsApp
+
+Pre-filled message:
+Assalam o Alaikum, mujhe Python ebook ke baare mein poochna hai.
+
+
+=====================================================
+QUICK NOTES FOR PUBLISHING
+=====================================================
+
+- Replace every [ placeholder ] before going live. Do not publish invented reviews, student counts or guarantees.
+- Add Product schema and FAQ schema (JSON-LD) so Google and AI tools can read your price, availability and FAQs.
+- Keep the price consistent everywhere on the page: Rs. 49,000 regular, Rs. 29,000 now.
+- Add descriptive alt text to the cover and sample page images.
